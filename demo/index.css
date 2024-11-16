@@ -1,0 +1,5 @@
+
+@import 'vov.css/vov.min.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

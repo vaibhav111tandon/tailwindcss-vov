@@ -1,0 +1,29 @@
+{
+  "name": "tailwindcss-vov",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./demo/index.css -o ./demo/output.css --watch"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "animations",
+    "css",
+    "cssanimations",
+    "vov.css",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "Vaibhav Tandon",
+  "license": "MIT",
+  "description": "Add VOV CSS as Tailwind CSS plugin to your project.",
+  "peerDependencies": {
+    "tailwindcss": "^3.4.15",
+    "vov.css": "^1.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.15",
+    "vov.css": "^1.2.0"
+  }
+}
