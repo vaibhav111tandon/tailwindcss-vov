@@ -7,7 +7,7 @@ A TailwindCSS plugin to integrate VOV.css animations seamlessly.
 Install the plugin and its dependencies:
 
 ```
-npm install tailwind-vov tailwindcss vov.css
+npm install tailwindcss-vov tailwindcss vov.css
 ```
 
 ## Usage

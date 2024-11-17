@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-vov",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./index.js",
   "scripts": {
     "dev": "npx tailwindcss -i ./demo/index.css -o ./demo/output.css --watch"
@@ -18,6 +18,10 @@
   "author": "Vaibhav Tandon",
   "license": "MIT",
   "description": "Add VOV CSS as Tailwind CSS plugin to your project.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav111tandon/tailwindcss-vov.git"
+  },
   "peerDependencies": {
     "tailwindcss": "^3.4.15",
     "vov.css": "^1.2.0"
