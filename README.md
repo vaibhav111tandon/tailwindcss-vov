@@ -1,3 +1,4 @@
+![](https://vaibhav111tandon.github.io/tailwindcss-vov/banner.png)
 # Tailwind VOV.CSS Plugin
 
 A TailwindCSS plugin to integrate VOV.css animations seamlessly.
